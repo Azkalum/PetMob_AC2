@@ -29,19 +29,6 @@ em PetShop e mostrar o recurso de compra e validação diretamente pela interfac
 
 ![image](https://user-images.githubusercontent.com/98130954/172433958-67ce167c-1881-41d5-b24d-2675621a8340.png)
 
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Java 8.2](https://www.java.com/pt-BR/)
-- [MySQL 8.0](https://www.mysql.com)
-- [MariaDB 10.6.8](https://mariadb.org)
-
-## 🌎 Site Oficial do Projeto
-
- - [PetMob](https://petmob.netlify.app)
-
-
 ## ✅ Como Rodar
 - Dar um Clone do Projeto
 
@@ -67,9 +54,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ![image](https://user-images.githubusercontent.com/98130954/172434914-e93f02f7-87ac-494c-a764-18778adf3eaf.png)
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Java 8.2](https://www.java.com/pt-BR/)
+- [MySQL 8.0](https://www.mysql.com)
+- [MariaDB 10.6.8](https://mariadb.org)
+
 ## 📚 Metodologia 
 - Scrum : [Jira](https://petmob.atlassian.net/jira/software/projects/PET/boards/1)
 - Kanban : [Trello](https://trello.com/b/EnxzrEnW/grupo-8-fábrica-de-projetos-2-pet-mob)
+
+## 🌎 Site Oficial do Projeto
+
+ - [PetMob](https://petmob.netlify.app)
 
 ## 👨‍🎓 Autores
 
